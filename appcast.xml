@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tui</title>
+        <item>
+            <title>Tui 0.2</title>
+            <pubDate>Wed, 16 Sep 2026 15:48:41 -0400</pubDate>
+            <sparkle:channel>tui</sparkle:channel>
+            <sparkle:version>20260916.1548</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aminosman/tui-releases/releases/download/tui-v0.2-20260916.1548/Tui-0.2-20260916.1548.zip" length="13307773" type="application/octet-stream" sparkle:edSignature="mVKTYhxlJLjFLrTd+8Ft1u0WHyn7FvFDWqozO8L4+2h3I9jYofmLvR/I5WawNDjeBdn6f2iXYfX20CDeS+QdCA=="/>
+        </item>
+    </channel>
+</rss>
