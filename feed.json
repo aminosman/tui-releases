@@ -1,5 +1,14 @@
 [
   {
+    "build" : "20260921.2323",
+    "channel" : "tui",
+    "date" : "Mon, 21 Sep 2026 23:24:22 -0400",
+    "length" : 14055120,
+    "marketing" : "0.2",
+    "signature" : "Rbcb6YnDTlxMX+Z\/14G60tz28rwJKB5B8YogXiWv+RweRSngyA3xjkzPxnVusOw4tO8NCEZE92hiu7y0Ijb8Ag==",
+    "url" : "https:\/\/github.com\/aminosman\/tui-releases\/releases\/download\/tui-v0.2-20260921.2323\/Tui-0.2-20260921.2323.zip"
+  },
+  {
     "build" : "20260921.2302",
     "channel" : "tui",
     "date" : "Mon, 21 Sep 2026 23:02:25 -0400",
