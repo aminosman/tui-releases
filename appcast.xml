@@ -4,6 +4,15 @@
         <title>Tui</title>
         <item>
             <title>Tui 0.2</title>
+            <pubDate>Wed, 23 Sep 2026 13:27:14 -0400</pubDate>
+            <sparkle:channel>tui</sparkle:channel>
+            <sparkle:version>20260923.1326</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aminosman/tui-releases/releases/download/tui-v0.2-20260923.1326/Tui-0.2-20260923.1326.zip" length="14183549" type="application/octet-stream" sparkle:edSignature="/FJQ5jHtEqiJxyE9JPHZa0gj+h87eWw8YFPPpPDt31XV5v0DbBwu0Zr5Oe9fWCfrkCd04h5g9gcJhB05img1AQ=="/>
+        </item>
+        <item>
+            <title>Tui 0.2</title>
             <pubDate>Wed, 23 Sep 2026 11:07:25 -0400</pubDate>
             <sparkle:channel>tui</sparkle:channel>
             <sparkle:version>20260923.1107</sparkle:version>
