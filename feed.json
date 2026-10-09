@@ -1,5 +1,14 @@
 [
   {
+    "build" : "0.0.54",
+    "channel" : "roost",
+    "date" : "Fri, 09 Oct 2026 18:46:01 -0500",
+    "length" : 146562489,
+    "marketing" : "0.0.54",
+    "signature" : "YBzpe\/pEggPTlnDQR3aH9Y6KFt+m1rvHCVyYz9AGObyMRaAcLQ8ZjcDhLTCnaAixTnnIUmeQg6zANiHfl33HBA==",
+    "url" : "https:\/\/github.com\/aminosman\/t3code\/releases\/download\/roost-v0.0.54\/Roost-0.0.54-arm64.zip"
+  },
+  {
     "build" : "0.0.53",
     "channel" : "roost",
     "date" : "Wed, 07 Oct 2026 23:36:34 -0500",
