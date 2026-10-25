@@ -3,6 +3,15 @@
     <channel>
         <title>Tui</title>
         <item>
+            <title>Roost 0.0.57</title>
+            <pubDate>Sat, 24 Oct 2026 22:50:56 -0400</pubDate>
+            <sparkle:channel>roost</sparkle:channel>
+            <sparkle:version>0.0.57</sparkle:version>
+            <sparkle:shortVersionString>0.0.57</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aminosman/t3code/releases/download/roost-v0.0.57/Roost-0.0.57-arm64.zip" length="146619278" type="application/octet-stream" sparkle:edSignature="n2sLEylWGltB4oQZ0DGcHSn5DPPQTDvJpF7LWZBZTgIeJQ6KUCxWZ8BERJ13+Lxd89m0eD9WLnVLaY2iNvNpCw=="/>
+        </item>
+        <item>
             <title>Tui 0.2</title>
             <pubDate>Sat, 24 Oct 2026 09:59:26 -0400</pubDate>
             <sparkle:channel>tui</sparkle:channel>
