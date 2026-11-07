@@ -1,5 +1,14 @@
 [
   {
+    "build" : "20261107.1300",
+    "channel" : "tui",
+    "date" : "Sat, 07 Nov 2026 13:00:47 -0500",
+    "length" : 14681478,
+    "marketing" : "0.2",
+    "signature" : "w6BW3iUuRZ91l2sScH1oXtit5CGTuHW\/Dv6gob9Fi+pgCfiP21NkY3rfSOjQu0BwdAJPKJCsy1jHINxRY6UtCw==",
+    "url" : "https:\/\/github.com\/aminosman\/tui-releases\/releases\/download\/tui-v0.2-20261107.1300\/Tui-0.2-20261107.1300.zip"
+  },
+  {
     "build" : "0.0.61",
     "channel" : "roost",
     "date" : "Fri, 30 Oct 2026 19:31:54 -0400",
